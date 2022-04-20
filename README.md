@@ -2,7 +2,7 @@
 
 I am a PhD student in information and communication sciences in the [IMSIC laboratory](https://www.imsic.fr/) at the [Université de Toulon](https://www.univ-tln.fr/), France. You can find a short resume on [my personal homepage](https://altab.fr).
 
-I am currently working on various projects around open science and more precisely on the [HAL](https://hal.archives-ouvertes.fr/) open archive. I also give courses in the [Master Information et Communication](http://www.ingemedia.net/formations/master-data-analytics-strategie-information), data analytics and information strategy at the [Université de Toulon](https://www.univ-tln.fr/).
+I am currently working on various projects around open science and more precisely around the [HAL](https://hal.archives-ouvertes.fr/) open archive. I also give courses in the [Master Information et Communication](http://www.ingemedia.net/formations/master-data-analytics-strategie-information), data analytics and information strategy at the [Université de Toulon](https://www.univ-tln.fr/).
 
 <!--
 **alarictabaries/alarictabaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
