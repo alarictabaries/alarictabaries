@@ -4,6 +4,10 @@ I am a PhD student in information and communication sciences in the [IMSIC labor
 
 I am currently working on various projects around open science and more precisely around the [HAL](https://hal.archives-ouvertes.fr/) open archive. I also give courses in the [Master Information et Communication, data analytics and information strategy](http://www.ingemedia.net/formations/master-data-analytics-strategie-information) at the [Université de Toulon](https://www.univ-tln.fr/).
 
+##### 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alarictabaries)
+
 <!--
 **alarictabaries/alarictabaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
