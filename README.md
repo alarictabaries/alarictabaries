@@ -6,7 +6,7 @@ I am currently working on various projects around open science and more precisel
 
 ##### 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alarictabaries)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alarictabaries&layout=compact)
 
 <!--
 **alarictabaries/alarictabaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
